@@ -1,10 +1,8 @@
-<!doctype html>
 <html lang="zxx">
 <head>
 </head>
 <body><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></body>
 </html>
-<title>Free eBay listing template designed by dewiso.com</title>
 <link href="https://dewiso.com/css/bootstrap.min.css" rel="stylesheet" />
 <div style="background: #FDFEFE; border-left: 1px solid #CBD4C2; border-right: 1px solid #CBD4C2; border-top: 1px solid #CBD4C2; color: #353535; line-height: 45px">
 <div class="container" style="border-bottom: 1px solid #CBD4C2; padding: 40px 0 40px 0">
